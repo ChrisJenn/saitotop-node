@@ -8,7 +8,7 @@
         "build": "rollup -c rollup.config.js"
     },
     "bin": {
-        "saitotop": "dist/index.js"
+        "saitotop-node": "dist/index.js"
     },
     "keywords": [
         "saito",
