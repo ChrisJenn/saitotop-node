@@ -12,13 +12,13 @@ Maybe one day could read logs, connect to node, etc...
 ## Install
 
 ```bash
-npm install -g saitotop
+npm install -g saitotop-node
 ```
 
 ## Usage
 
 ```bash
-saitotop ~/saito-rust
+saitotop-node
 ```
 
 ## License
